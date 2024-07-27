@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quiz_App_Project.iml" filepath="$PROJECT_DIR$/.idea/Quiz_App_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroserviceTutorials-main/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/MicroserviceTutorials-main/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroserviceTutorials-main/question-service/question-service.iml" filepath="$PROJECT_DIR$/MicroserviceTutorials-main/question-service/question-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroserviceTutorials-main/quiz-service/quiz-service.iml" filepath="$PROJECT_DIR$/MicroserviceTutorials-main/quiz-service/quiz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroserviceTutorials-main/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/MicroserviceTutorials-main/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>
